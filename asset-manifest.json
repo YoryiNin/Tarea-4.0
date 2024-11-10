@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Tarea-4.0/static/css/main.f88c018d.css",
+    "main.js": "/Tarea-4.0/static/js/main.da6a6d95.js",
+    "index.html": "/Tarea-4.0/index.html",
+    "main.f88c018d.css.map": "/Tarea-4.0/static/css/main.f88c018d.css.map",
+    "main.da6a6d95.js.map": "/Tarea-4.0/static/js/main.da6a6d95.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f88c018d.css",
+    "static/js/main.da6a6d95.js"
+  ]
+}
